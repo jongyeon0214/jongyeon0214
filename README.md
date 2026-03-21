@@ -30,5 +30,7 @@
 ## 📚 Edu
 [우리 FISA 클라우드 엔지니어링 6기[2025.12.30 ~ 2026.06.25]](https://github.com/jongyeon0214/Woorifisa)
 
----
-📧 **Contact:** [whddus0214@gmail.com](mailto:whddus0214@gmail.com) [whddus0214@naver.com](mailto:whddus0214@naver.com)
+### 📧 Contact
+
+<a href="mailto:whddus0214@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="mailto:whddus0214@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white"/></a>
