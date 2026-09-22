@@ -1,16 +1,22 @@
 # 🐎 JONGYEON'S GITHUB 🖐️
 
-## 🏆 Career
+## 🏆Experience
 | Type | Date | Name | Organization |
 | :--- | :--- | :--- | :--- |
-| University | 2021.02 - 2026.02| 휴먼지능정보공학과 | 상명대학교 서울캠퍼스 |
+| University | 2021.02 - 2026.08| 휴먼AI공학전공 | 상명대학교 서울캠퍼스 |
 | Project | 2024.12 - 2025.11 | 웹캠을 이용한 상반신 자세 측정 프로젝트  | 졸업 프로젝트 |
-| Education | 2025.12 - 현재 | 우리 FISA 클라우드 엔지니어링 6기 | 우리에프아이에스 |
+| Education | 2025.12 - 2026.06 | 우리 FISA 클라우드 엔지니어링 6기 | 우리에프아이에스 |
 
 
-## 🎖 Awards & Achievements
-- Honorable Mention, Graduation Project Exhibition | *Sangmyung University*
-- Participation Prize, Capstone Design Competition | *Sangmyung University*
+## 🎖 Awards
+
+| Date    | Award           | Organization | Project                |
+| :------ | :-------------- | :----------- | :--------------------- |
+| 2025.11 | 졸업작품전 장려상       | 상명대학교        | 웹캠을 이용한 상반신 자세 측정 프로젝트 |
+| 2025.11 | 캡스톤디자인 경진대회 참가상 | 상명대학교        | 캡스톤디자인 프로젝트            |
+| 2026.06 | 프로젝트 우수상        | 우리FIS아카데미    | 그룹사 락인 플랫폼             |
+| 2026.06 | 융합해커톤 우수상       | 우리FIS아카데미    | 시니어 소비패턴 기반 금융 웰니스 플랫폼 |
+
   
 
 ## 🛠️ Tech Stack
@@ -29,6 +35,14 @@
 
 ## 📚 Edu
 [우리 FISA 클라우드 엔지니어링 6기[2025.12.30 ~ 2026.06.25]](https://github.com/jongyeon0214/Woorifisa)
+
+## 📜 Certifications
+
+* 정보처리기사
+* SQLD (SQL 개발자)
+* 리눅스마스터 2급
+* TOEIC Speaking IH
+
 
 ### 📧 Contact
 
